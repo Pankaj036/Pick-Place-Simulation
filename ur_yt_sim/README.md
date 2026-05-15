@@ -1,2 +1,1 @@
-# ur_10arm_sim
-# ur_10arm_sim
+ros2 launch pick_place_simulation main_launch.py
