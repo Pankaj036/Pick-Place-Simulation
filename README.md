@@ -1,9 +1,9 @@
-# Pick-Place-Simulation
+# 🏗️ Pick-Place-Simulation
 **UR10 Robotic Pick &amp; Place Simulation**
 
 This repository contains a complete ROS 2-based simulation of an industrial **UR10** robotic arm performing pick-and-place tasks. The project integrates advanced perception, motion planning, and physics-based simulation.
 
-###  Tech Stack
+### 🛠 Tech Stack
 | Component | Technology |
 | :--- | :--- |
 | **Robot Arm** | Universal Robots UR10 |
@@ -38,7 +38,7 @@ Grasping: The Robotiq gripper is actuated to secure the square object.
 Place: The arm executes a secondary motion plan to transport the object and release it precisely into the storage bin.
 Execution: The "Execute" command in the MotionPlanning panel (as seen in the screenshots) triggers the real-time movement in the Gazebo physics world.
 
-## Installation
+## 🚀 Installation
 1. **Clone the repo into your ROS 2 workspace:**
    ```bash
    cd ~/ros2_ws/src
